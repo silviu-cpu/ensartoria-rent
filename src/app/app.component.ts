@@ -9,11 +9,6 @@ export class AppComponent {
   companyName = 'Eleganza Noleggio';
   presentationTitle = 'Noleggio Abiti da Cerimonia e Sera';
 
-  socialLinks = {
-    instagram: 'https://www.instagram.com/eleganzanoleggio',
-    facebook: 'https://www.facebook.com/eleganzanoleggio',
-  };
-
   weddingDressSection = {
     title: 'Abiti da Sposa su Misura',
     description:
